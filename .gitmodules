@@ -1,3 +1,6 @@
 [submodule "start/nerdtree"]
 	path = start/nerdtree
 	url = https://github.com/preservim/nerdtree.git
+[submodule "start/syntastic"]
+	path = start/syntastic
+	url = git@github.com:vim-syntastic/syntastic.git
