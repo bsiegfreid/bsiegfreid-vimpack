@@ -4,3 +4,9 @@
 [submodule "start/syntastic"]
 	path = start/syntastic
 	url = git@github.com:vim-syntastic/syntastic.git
+[submodule "start/vim-easytags"]
+	path = start/vim-easytags
+	url = https://github.com/xolox/vim-easytags
+[submodule "start/vim-misc"]
+	path = start/vim-misc
+	url = https://github.com/xolox/vim-misc

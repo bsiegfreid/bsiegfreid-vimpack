@@ -27,3 +27,11 @@ Syntastic is a syntax checking plugin that runs files through external checkers
 and displays and errors.
 
 Java should be supported if you have `javac` in your path.
+
+## easytags
+
+https://github.com/xolox/vim-easytags
+
+Requires https://github.com/xolox/vim-misc be installed.
+
+Automatically updates Exuberant Ctags.
