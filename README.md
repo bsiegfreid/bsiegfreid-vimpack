@@ -11,9 +11,19 @@ git clone --recurse-submodules https://github.com/bsiegfreid/bsiegfreid-vimpack.
 
 ## .vimrc
 
-The `vimrc` file is included with configuration for the plugins. It can be used
-as a referenced or soft linked to `~/.vimrc`.
+Copy the `vimrc` to `~/.vimrc` or use it for inspiration for your own configuration.
 
-```
-ln -s vimrc ~/.vimrc
-```
+## NERDTree
+
+https://github.com/preservim/nerdtree
+
+NERDTree is a file system explorer.
+
+## Syntastic
+
+https://github.com/vim-syntastic/syntastic#faqinfo
+
+Syntastic is a syntax checking plugin that runs files through external checkers
+and displays and errors.
+
+Java should be supported if you have `javac` in your path.
